@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "adminRoute",
+    "main",
+    "master",
+    "optimized",
+    "origin",
+    "season"
+  ],
+  "parent": {
+    "adminRoute": "main",
+    "main": null,
+    "master": "main",
+    "optimized": "main",
+    "origin": "main",
+    "season": "main"
+  },
+  "order": [
+    "main",
+    "adminRoute",
+    "master",
+    "optimized",
+    "origin",
+    "season"
+  ]
+}
